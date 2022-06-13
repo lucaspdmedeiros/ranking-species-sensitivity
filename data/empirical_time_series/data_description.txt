@@ -1,0 +1,9 @@
+Benincà et al 2009
+Reference: Benincà, E., Jöhnk, K. D., Heerkloss, R., & Huisman, J. (2009). Coupled predator–prey oscillations in a chaotic food web. Ecology letters, 12(12), 1367-1378.
+Source: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1461-0248.2009.01391.x
+Details: The original data were interpolated by hermite cubic interpolation to obtain data with equidistant time intervals of 3.35 days. The time series were rescaled by a fourth-rooth transformation, to suppress sharp peaks. Time unit: days. Abundance units: (mg fwt/L)^(1/4).
+
+Benincà et al 2015
+Reference: Benincà, E., Ballantine, B., Ellner, S. P., & Huisman, J. (2015). Species fluctuations sustained by a cyclic succession at the edge of chaos. Proceedings of the National Academy of Sciences, 112(20), 6389-6394.
+Source: https://www.pnas.org/content/112/20/6389/tab-figures-data
+Details: The data were interpolated using cubic hermite interpolation to obtain data with equidistant time intervals of 30 days, yielding a total of 251 data points per time series. Time unit: months. Abundance units: percentage of cover.
