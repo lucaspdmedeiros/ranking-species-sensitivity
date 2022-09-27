@@ -1,6 +1,6 @@
 # Ranking species based on sensitivity to perturbations under non-equilibrium community dynamics
 
-This repository contains the code and data associated with the paper: "Ranking species based on sensitivity to perturbations under non-equilibrium community dynamics" by Lucas P. Medeiros, Stefano Allesina, Vasilis Dakos, George Sugihara, and Serguei Saavedra.
+This repository contains the code and data associated with the paper: Medeiros, L. P., Allesina, S., Dakos, V., Sugihara, G., and Saavedra, S. (2022). Ranking species based on sensitivity to perturbations under non-equilibrium community dynamics. *Ecology Letters*. 
 
 The repository contains 4 folders: *code*, *data*, *figs*, and *results*. Under *code/scripts* we provide the R scripts to reproduce Figures 1-4 and SI figures. 
 
